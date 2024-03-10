@@ -13,6 +13,8 @@ _**BOLD ITALICIZES**_
 _ITALICIZES_
 <br>
 
+md means media drive, for making a website
+
 ### [Datasheet](https://www.diodes.com/assets/Datasheets/products_inative_data/AM4962.pdf)
 
 <body>
@@ -24,3 +26,4 @@ _ITALICIZES_
     <iframe src="media/PDF of PCB.pdf" width="100%" height="500px">
     </iframe>
 </body>
+
